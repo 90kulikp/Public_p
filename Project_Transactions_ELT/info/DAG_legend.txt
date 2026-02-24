@@ -1,0 +1,7 @@
+ Tasks suffix legend:
+ C - Cleansing
+ D - Drop (stagging table)
+ E - Extract
+ L - Load
+ T - Transform
+ V - Verify (if exists)

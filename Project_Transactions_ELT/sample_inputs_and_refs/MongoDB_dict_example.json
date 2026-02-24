@@ -1,0 +1,35 @@
+{
+  "_id": {
+    "$oid": "69665ea13c2b6e38308de66d"
+  },
+  "SourceSystem": "Transactions",
+  "Dictionary": "Types",
+  "inUse": 1,
+  "Values": [
+    {
+      "name": "SL",
+      "full_name": "STOP_LOSS",
+      "description": "stop loss"
+    },
+    {
+      "name": "ST",
+      "full_name": "STOP_LIMIT",
+      "description": "stop limit"
+    },
+    {
+      "name": "EP",
+      "full_name": "EACH_PRICE",
+      "description": "for each price PKC"
+    },
+    {
+      "name": "LI",
+      "full_name": "LIMIT",
+      "description": "standard order with limit"
+    },
+    {
+      "name": "MP",
+      "full_name": "MARKET_PRICE",
+      "description": "for market price PCR"
+    }
+  ]
+}

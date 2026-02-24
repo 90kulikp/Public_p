@@ -1,0 +1,48 @@
+alpha-vantage_listing_status:
+  conn_type: http
+  description: financial_instruments
+  extra: '{"x-rapidapi-key": ***,
+    "x-rapidapi-host": "alpha-vantage.p.rapidapi.com"}'
+  host: https://alpha-vantage.p.rapidapi.com
+  login: null
+  password: null
+  port: null
+  schema: null
+mongo_pr1:
+  conn_type: mongo
+  description: dictionary
+  extra: '{"srv": null, "ssl": false, "allow_insecure": null, "authSource": "admin"}'
+  host: localhost
+  login: ***
+  password: ***
+  port: 27017
+  schema: project1
+nbp_currency_scraper:
+  conn_type: http
+  description: currencies_and_currency_rates
+  extra: '{"User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101
+    Firefox/140.0", "timeout": 30}'
+  host: https://nbp.pl
+  login: null
+  password: null
+  port: null
+  schema: null
+postgres_pr_tran:
+  conn_type: postgres
+  description: OLAP
+  extra: null
+  host: localhost
+  login: ***
+  password: ***
+  port: 5432
+  schema: transactions_project
+world-geo-data_countries:
+  conn_type: http
+  description: countries
+  extra: '{"x-rapidapi-key": ***,
+    "x-rapidapi-host": "world-geo-data.p.rapidapi.com"}'
+  host: https://world-geo-data.p.rapidapi.com
+  login: null
+  password: null
+  port: null
+  schema: null

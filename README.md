@@ -1,4 +1,3 @@
-### Read me
 Welcome to my public repository.
 Here you can find my projects demonstrating work with data, as well as some useful SQL scripts to simplify daily tasks.
 

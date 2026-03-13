@@ -1,3 +1,4 @@
+### Read me
 Welcome to my public repository.
 Here you can find my projects demonstrating work with data, as well as some useful SQL scripts to simplify daily tasks.
 
@@ -6,6 +7,7 @@ Projects:
 
 SQL scripts:
 1. **dim_date** - Script that create date dimension table.
+2. **RLS algorithm** - Script that flattens hierarchical relationships using a *cursor* and a *while* loop.
 
 
 More projects and scripts coming soon.

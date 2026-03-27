@@ -8,6 +8,7 @@ Projects:
 SQL scripts:
 1. **dim_date** - Script that create date dimension table.
 2. **RLS algorithm** - Script that flattens hierarchical relationships using a *cursor* and a *while* loop.
+3. **DDL&DML logging triggers** - Code creates a database-level DDL trigger that logs table structure changes and automatically generates DML triggers on created or modified tables to track data modifications.
 
 
 More projects and scripts coming soon.
